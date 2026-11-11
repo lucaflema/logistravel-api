@@ -1,0 +1,22 @@
+{
+  "OrderID": 10234,
+  "Address": "Av. San Martín 1250, Mendoza, Argentina",
+  "Status": "En tránsito",
+  "Articles": [
+    {
+      "Name": "Notebook 15 pulgadas",
+      "Quantity": 2,
+      "Dangerous": false
+    },
+    {
+      "Name": "Batería de litio 12V",
+      "Quantity": 4,
+      "Dangerous": true
+    },
+    {
+      "Name": "Mouse inalámbrico",
+      "Quantity": 5,
+      "Dangerous": false
+    }
+  ]
+}
